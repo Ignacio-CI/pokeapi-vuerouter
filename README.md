@@ -1,4 +1,4 @@
-# An example of an application using de Poke API and vue router.
+# An example of an application using the Poke API and vue router.
 
 - [Preview Page](https://pokeapi-vuerouter.netlify.app/)
 
