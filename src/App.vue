@@ -11,9 +11,10 @@ import { RouterLink, RouterView } from 'vue-router'
           class="d-inline-block align-text-top">
         Poke API
       </RouterLink>
-      <div>
+      <div class="me-2">
         <RouterLink class="btn btn-outline-primary me-2" to="/">Home</RouterLink>
-        <RouterLink class="btn btn-outline-primary" to="/pokemons">Pokemons</RouterLink>
+        <RouterLink class="btn btn-outline-primary me-2" to="/pokemons">Pokemons</RouterLink>
+        <RouterLink class="btn btn-outline-primary" to="/favoritos">Favoritos</RouterLink>
       </div>
     </div>
   </nav>
